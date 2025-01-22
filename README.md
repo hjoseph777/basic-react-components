@@ -13,6 +13,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser local mach
 
 ![display result](https://github.com/hjoseph777/basic-react-components/blob/master/src/Lab2Picture.png)
 
+![display](https://github.com/hjoseph777/basic-react-components/blob/master/src/Lab2Picture.png)
+
 
 
 
