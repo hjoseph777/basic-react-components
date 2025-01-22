@@ -11,7 +11,7 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser local machine to ensure npm server is up to see the result below
 
-![display](https://github.com/hjoseph777/basic-react-components/blob/master/src/Lab2Picture.png)
+<!--![display](https://github.com/hjoseph777/basic-react-components/blob/master/src/Lab2Picture.png)-->
 
 ![display](https://github.com/hjoseph777/basic-react-components/blob/master/src/Lab2Picture.png)
 
