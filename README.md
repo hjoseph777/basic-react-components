@@ -15,6 +15,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser local mach
 
 ![display](https://github.com/hjoseph777/basic-react-components/blob/master/src/Lab2Picture.png)
 
+![dis](src/components/Lab2Picture.png)
+
 
 
 
