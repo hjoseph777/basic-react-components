@@ -37,7 +37,7 @@ The MainContent.js module handles the main content area of the application. This
 The index.js module is the entry point of the application. It sets up the React application by rendering the root component and initializing the application.
 
 
-<!DOCTYPE html>
+<!--<!DOCTYPE html> -->
 <html lang="en">
 <head>
     <meta charset="UTF-8">
