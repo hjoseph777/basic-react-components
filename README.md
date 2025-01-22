@@ -60,7 +60,7 @@ basic-react-components/
     </pre>
 </body>
 </html>
-```
+
 
 This HTML code will display the project structure with clickable links to the `Header.js`, `MainContent.js`, and `index.js` files.
 
