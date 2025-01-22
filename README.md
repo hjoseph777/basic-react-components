@@ -2,19 +2,34 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
-First, run the development server:
+First, we run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+### index.js
+The index.js module is the entry point of the application. It integrates the Header and MainContent components into the home page. It also passes props to the MainContent component to display dynamic content.
+
+Code for index.js:
+
+
+
+## MainContent.js
+The MainContent.js module handles the main content area of the application. It accepts title and content as props and dynamically displays them within an article section. This makes the component reusable for different types of content.
+
+Code for MainContent.js:
+
+
+
+### index.js
+The index.js module is the entry point of the application. It integrates the Header and MainContent components into the home page. It also passes props to the MainContent component to display dynamic content.
+
+Code for index.js:
+
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
